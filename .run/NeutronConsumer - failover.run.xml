@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="NeutronConsumer - failover" type="Application" factoryName="Application" singleton="false">
+    <option name="MAIN_CLASS_NAME" value="NeutronConsumer" />
+    <module name="pulsar-learn" />
+    <option name="PROGRAM_PARAMETERS" value="failover topic1" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
